@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.idea/
+data/
+result_plots/
+Results/
+yolov5/runs/
